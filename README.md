@@ -1,4 +1,4 @@
-X11COIN
+cryptd
 =======
 
-X11COIN
+cryptd coin x11 algo
